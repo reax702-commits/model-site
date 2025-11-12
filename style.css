@@ -324,8 +324,9 @@ h1, h2, h3 {
   }
 
   .cta-section p {
-    font-size: 1rem;
-  }
+  font-size: 1.2rem;
+}
+ 
 
   .cta-button {
     padding: 12px 24px;
